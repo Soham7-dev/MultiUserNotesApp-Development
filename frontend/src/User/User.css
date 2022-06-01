@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Poppins:wght@400;500;600&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(120deg,#2980b9, #8e44ad);
+  height: 100vh;
+  overflow: hidden;
+}
+
+.center{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 10px 10px 15px rgba(0,0,0,0.05);
+
+  padding: 0 40px;
+  box-sizing: border-box;
+}
+
+.center h1{
+  text-align: center;
+  padding: 20px 0;
+  border-bottom: 1px solid silver;
+}
+
+.txt_field{
+  position: relative;
+  border-bottom: 2px solid #adadad;
+  margin: 30px 0;
+}
+
+.txt_field input{
+  width: 100%;
+  padding: 0 5px;
+  height: 40px;
+  font-size: 16px;
+  border: none;
+  background: none;
+  outline: none;
+}
+
+.txt_field label{
+  position: absolute;
+  top: -10%;
+  left: 5px;
+  color: #adadad;
+  transform: translateY(-50%);
+  font-size: 16px;
+  pointer-events: none;
+  transition: .5s;
+}
+
+.loginbtn{
+  margin-left: 35%;
+  margin-bottom: 10px;
+  padding: 10px 25px;
+  background: #2691d9;
+  color: whitesmoke;
+  font-size:large;
+  border: 0px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.loginbtn:hover{
+  background: navy;
+}
+
+.signupbtn{
+  margin-left: 33%;
+  margin-bottom: 10px;
+  padding: 10px 25px;
+  background: #2691d9;
+  color: whitesmoke;
+  font-size:large;
+  border: 0px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.signupbtn:hover{
+  background: navy;
+}
+
+.signup_link{
+  margin: 10px 0px;
+  text-align: center;
+}
