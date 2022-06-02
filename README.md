@@ -52,4 +52,4 @@ This Web Application is build in order to acknowledge the concepts of **React**,
 
 ### Demo
 
-![](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/2022-06-02-09-36-05.gif)
+![Demo](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/2022-06-02-09-36-05.gif)
