@@ -37,7 +37,7 @@ This Web Application is build in order to acknowledge the concepts of **React**,
 
 ## Features I would like to add
 - If User Forget his/her password I would like to configure [**Django Rest Password Reset**](https://pypi.org/project/django-rest-passwordreset/)
-- Using **Premium** version of **Postgres** to scale the application
+- Using **Premium** version of **Postgres** to scale the application for more Users
 
 ## How to Run the App in your Local Machine
 - Download this Repo on your Local Machine
