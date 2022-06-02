@@ -39,9 +39,17 @@ This Web Application is build in order to acknowledge the concepts of **React**,
 - If User Forget his/her password I would like to configure [**Django Rest Password Reset**](https://pypi.org/project/django-rest-passwordreset/)
 - Using **Premium** version of **Postgres** to scale the application for more Users
 
+---
+
 ## How to Run the App in your Local Machine
 - Download this Repo on your Local Machine
 - go to the **frontend** directory of the Project using Command Line (i.e `cd frontend`)
 - In Command Line run the command `npm run build`
 - After the build finishes go back to **root** directory of Project (i.e `cd ..`)
 - Now run the **Django Server** (i.e `python manage.py runserver`)
+
+---
+
+### Demo
+
+![](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/2022-06-02-09-36-05.gif)
