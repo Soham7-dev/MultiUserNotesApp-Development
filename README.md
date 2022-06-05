@@ -53,3 +53,28 @@ This Web Application is build in order to acknowledge the concepts of **React**,
 ### Demo
 
 ![Demo](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/2022-06-02-09-36-05.gif)
+
+### SS1
+
+![SS1](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/Screenshot%20(258).png)
+
+### SS2
+
+![SS2](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/Screenshot%20(259).png)
+
+### SS3
+
+![SS3](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/Screenshot%20(254).png)
+
+### SS4
+
+![SS4](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/Screenshot%20(255).png)
+
+
+### SS5
+
+![SS5](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/Screenshot%20(257).png)
+
+### SS6
+
+![SS6](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/Screenshot%20(256).png)
