@@ -17,6 +17,7 @@ from django.contrib import admin
 from django.urls import include, path, re_path
 from django.views.generic import TemplateView
 from rest_framework.authtoken.views import obtain_auth_token
+from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -24,3 +25,5 @@ urlpatterns = [
     path('auth/', obtain_auth_token),
     path('', TemplateView.as_view(template_name='index.html')),
 ]
+
+urlpatterns += staticfiles_urlpatterns()
